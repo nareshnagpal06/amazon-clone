@@ -43,7 +43,7 @@ function Product({ id, title, image, price, rating }) {
 
             <button onClick={AddToBasket}>Add To Basket</button>
         </div >
-    )
+    );
 }
 
 export default Product
